@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "HD-wallpaper-twenty-one-pilots-trench-a-complete-diversion-jumpsuit-levitate-banditos.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
