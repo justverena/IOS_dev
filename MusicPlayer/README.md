@@ -1,4 +1,4 @@
-# Music Player App (Xylo)
+# Music Player App
 
 ## Description
 This project is a simple **music player app** built in **Swift** using **UIKit** and **AVFoundation**.  
@@ -40,11 +40,15 @@ Added `UILabel`s to show:
 ---
 
 ## Screenshots
+<p align="center">
+  <img src="Screenshots/17pro.png" width="250" />
+  <img src="Screenshots/16e.png" width="250" />
+  <img src="Screenshots/16e-2.png" width="250" />
+</p>
 
-![on 17 pro](Screenshots/17pro.png)
-![on 16e](Screenshots/16e.png)
-![on 16 e](Screenshots/16e-2.png)
 ---
 
 ## Screen Recording
-![on 17 por max](Screenshots/17promax.gif)
+<p align="center">
+  <img src="Screenshots/17promax.gif" width="250" />
+</p>
